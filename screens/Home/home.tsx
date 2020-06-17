@@ -15,3 +15,5 @@ import {
   DebugInstructions,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+
+import homeHeader from '../Header/homeHeader';
